@@ -1,6 +1,6 @@
 # xian.name
 <body>
-
+ <a href="index.htm">chinese
 <br />
 <hr color="#99CCFF" size="1">
 
@@ -29,7 +29,7 @@ pdf&nbsp;)</span></span><p class="MsoNormal" style="text-indent: 10.5pt">
 All rights reserved.&nbsp;<a href="file:///C:/Users/HP1140/Documents/My%20Web%20Sites/phys/contact.htm"> </a>
 </span></font><font face="Times New Roman">
 <span class="style2">
-<a href="file:///C:/Users/HP1140/Documents/My%20Web%20Sites/en/contact.htm">Contact me</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman"><br>
+<a href="en/contact.htm">Contact me</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman"><br>
 </span></font></p>
 
 </body>
