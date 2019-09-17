@@ -4,7 +4,7 @@
     <a href="en/Photon%20Is%20the%20Ultimate%20Elementary%20Particle%20of%20Matter.pdf">Photon Is the Ultimate Elementary Particle of Matter</a></span><span style="font-size: 15.0pt; font-family: Times New Roman"> 
     (.
     <span class="style1">
-pdf&nbsp;)</span></span><p class="MsoNormal" style="text-indent: 10.5pt">
+pdf&nbsp;)</span></span>
     <font face="Times New Roman">
     <span lang="EN-US">Physicists have been searched for elementary particle of 
     matter. B</span>u<span lang="EN-US">t what is elementary? People find it hard to answer this question. 
@@ -15,7 +15,7 @@ pdf&nbsp;)</span></span><p class="MsoNormal" style="text-indent: 10.5pt">
     it that ZERO matter? We know that photon’s rest mass is zero. If the ZERO 
     matter is photon, isn’t it that photon is “the ultimate elementary particle 
     of matter”? We know that infinitesimal limit is zero. If so, isn’t it that 
-    ultimate elementary particle of matter is photon?</span></font></p>
+    ultimate elementary particle of matter is photon?</span></font>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <hr />
