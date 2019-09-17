@@ -22,5 +22,5 @@
 
 <p align="center">
 <font size="2" color="#0000FF"><span style="font-family: Times New Roman">
-<a href="../index.html">xian.name</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;
+<a href="../README.MD">xian.name</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;
 All rights reserved.&nbsp; </span></font></p>
