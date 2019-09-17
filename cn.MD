@@ -1,32 +1,23 @@
 # xian.name
- <a href="cn.MD">chinese
-<br />
-<hr color="#99CCFF" size="1">
-
-<br />
-<span lang="EN-US" style="font-size: 15.0pt; font-family: Times New Roman">
-    <a href="en/Photon Is the Ultimate Elementary Particle of Matter.pdf">Photon Is the Ultimate Elementary Particle of Matter</a></span><span style="font-size: 15.0pt; font-family: Times New Roman"> 
-    (.
-    <span class="style1">
-pdf&nbsp;)</span></span>
-    <font face="Times New Roman">
-    <span lang="EN-US">Physicists have been searched for elementary particle of 
-    matter. B</span>u<span lang="EN-US">t what is elementary? People find it hard to answer this question. 
-    From china ancient books--The Book of Changes, we know that Taiji 
-    produces two Yi. Two Yi produce four quadrant, four quadrant 
-    produce eight diagrams. Eight diagrams produce all the things in the 
-    universe. Grand means endless. But the taiji is the great void, isn’t 
-    it that ZERO matter? We know that photon’s rest mass is zero. If the ZERO 
-    matter is photon, isn’t it that photon is “the ultimate elementary particle 
-    of matter”? We know that infinitesimal limit is zero. If so, isn’t it that 
-    ultimate elementary particle of matter is photon?</span></font>
-<hr color="#99CCFF" size="1">
-
-<p class="MsoNormal" style="text-indent: 10.5pt">
-<font size="2" color="#0000FF"><span style="font-family: Times New Roman">
-<a href="file:///C:/Users/HP1140/Documents/My%20Web%20Sites/index.html">xian.name</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;Copyright(C)2000-2019&nbsp;
-All rights reserved.&nbsp;<a href="file:///C:/Users/HP1140/Documents/My%20Web%20Sites/phys/contact.htm"> </a>
-</span></font><font face="Times New Roman">
-<span class="style2">
-<a href="en/contact.MD">Contact me</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman"><br>
-</span></font></p>
+<span class="rich-diff-level-one" style="box-sizing: border-box; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+<hr color="#99CCFF" size="1" style="box-sizing: initial; height: 0.25em; overflow: hidden; margin: 24px 0px; background: rgb(225, 228, 232); border: 0px; padding: 0px;" />
+</span>
+<p class="unchanged rich-diff-level-one" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+&nbsp;</p>
+<p class="unchanged rich-diff-level-one" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+<a style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;" href="https://github.com/zhuopengxian/xian.name/blob/master/index.html">
+English</a></p>
+<p class="unchanged rich-diff-level-one" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+<strong style="box-sizing: border-box; font-weight: 600;">
+<a style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: underline; outline-width: 0px;" href="https://github.com/zhuopengxian/xian.name/blob/master/cn/photons.pdf">
+光子是物质的最基本粒子</a></strong></p>
+<p class="unchanged rich-diff-level-one" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+利用熵增加原理、推导出组成物质的最基本粒子是光子，并进一步说明光子的物理特性、物理常量影响着宇宙的物理规律与物理常量，试图为基本粒子、大统一物理的研究提出一个方向。</p>
+<span class="rich-diff-level-one" style="box-sizing: border-box; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+<hr color="#99CCFF" size="1" style="box-sizing: initial; height: 0.25em; overflow: hidden; margin: 24px 0px; background: rgb(225, 228, 232); border: 0px; padding: 0px;" />
+</span>
+<p class="unchanged rich-diff-level-one" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
+<span style="box-sizing: border-box;">
+<a rel="nofollow" style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;" href="http://www.xian.name/index.htm">
+xian.name</a>&nbsp;&nbsp;Copyright(C)2000-2019&nbsp; All rights reserved.&nbsp;<br style="box-sizing: border-box;" />
+&nbsp;<a style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;" href="https://github.com/zhuopengxian/xian.name/blob/master/cn/about.htm">关于本站</a></span></p>
