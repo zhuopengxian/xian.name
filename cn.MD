@@ -1,48 +1,32 @@
-<font color="#0000FF">
-
-<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; mso-hansi-font-family: Times New Roman">
-
+# xian.name
+ <a href="cn.MD">chinese
+<br />
 <hr color="#99CCFF" size="1">
 
-</span>
-
-</font>
-
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">二先网</p>
-<p class="MsoNormal"><font face="Times New Roman"><a href="index.html">English</a> </font></p>
-<p class="MsoNormal">
-		<strong><a href="cn/photons.pdf">光子是物质的最基本粒子</a></strong></p>
-<p class="MsoNormal">利用熵增加原理、推导出组成物质的最基本粒子是光子，并进一步说明光子的物理特性、物理常量影响着宇宙的物理规律与物理常量，试图为基本粒子、大统一物理的研究提出一个方向。</p>
-
-<font color="#0000FF">
-
-<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; mso-hansi-font-family: Times New Roman">
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber32">
-  <tr>
-    <td width="100%">
-    <p align="center"> 
-      </td>
-  </tr>
-</table>
-
+<br />
+<span lang="EN-US" style="font-size: 15.0pt; font-family: Times New Roman">
+    <a href="en/Photon Is the Ultimate Elementary Particle of Matter.pdf">Photon Is the Ultimate Elementary Particle of Matter</a></span><span style="font-size: 15.0pt; font-family: Times New Roman"> 
+    (.
+    <span class="style1">
+pdf&nbsp;)</span></span>
+    <font face="Times New Roman">
+    <span lang="EN-US">Physicists have been searched for elementary particle of 
+    matter. B</span>u<span lang="EN-US">t what is elementary? People find it hard to answer this question. 
+    From china ancient books--The Book of Changes, we know that Taiji 
+    produces two Yi. Two Yi produce four quadrant, four quadrant 
+    produce eight diagrams. Eight diagrams produce all the things in the 
+    universe. Grand means endless. But the taiji is the great void, isn’t 
+    it that ZERO matter? We know that photon’s rest mass is zero. If the ZERO 
+    matter is photon, isn’t it that photon is “the ultimate elementary particle 
+    of matter”? We know that infinitesimal limit is zero. If so, isn’t it that 
+    ultimate elementary particle of matter is photon?</span></font>
 <hr color="#99CCFF" size="1">
 
-<p class="style13">
+<p class="MsoNormal" style="text-indent: 10.5pt">
 <font size="2" color="#0000FF"><span style="font-family: Times New Roman">
-<a href="http://www.xian.name/index.htm">xian.name</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;Copyright(C)2000-2019&nbsp; 
-All rights reserved.&nbsp; <br>
-</span></font>
-
-</span>
-
-</font>
-
-<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; mso-hansi-font-family: Times New Roman">
-<font color="#ff0000" size="2">&nbsp; </font>
-
-</span> 
-      <font face="宋体"> 
-      <span style="mso-hansi-font-family: Times New Roman" class="style10">
-        <span class="style12"><a href="cn/about.htm">关于本站</a></span></span></font></p>
+<a href="file:///C:/Users/HP1140/Documents/My%20Web%20Sites/index.html">xian.name</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman">&nbsp;&nbsp;Copyright(C)2000-2019&nbsp;
+All rights reserved.&nbsp;<a href="file:///C:/Users/HP1140/Documents/My%20Web%20Sites/phys/contact.htm"> </a>
+</span></font><font face="Times New Roman">
+<span class="style2">
+<a href="en/contact.MD">Contact me</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman"><br>
+</span></font></p>
