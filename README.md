@@ -1,5 +1,4 @@
 # xian.name
-<body>
  <a href="index.htm">chinese
 <br />
 <hr color="#99CCFF" size="1">
@@ -31,5 +30,3 @@ All rights reserved.&nbsp;<a href="file:///C:/Users/HP1140/Documents/My%20Web%20
 <span class="style2">
 <a href="en/contact.htm">Contact me</a></span></font><font face="Times New Roman" color="#0000FF"><span style="FONT-SIZE: 10pt; mso-hansi-font-family: Times New Roman"><br>
 </span></font></p>
-
-</body>
