@@ -20,4 +20,4 @@ English</a></p>
 <span style="box-sizing: border-box;">
 <a rel="nofollow" style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;" href="README.MD">
 xian.name</a>&nbsp;&nbsp;Copyright(C)2000-2019&nbsp; All rights reserved.&nbsp;<br style="box-sizing: border-box;" />
-&nbsp;<a style="box-sizing: border-box; background-color: initial; color: rgb(3, 102, 214); text-decoration: none;" href="https://github.com/zhuopengxian/xian.name/blob/master/cn/about.htm">关于本站</a></span></p>
+
